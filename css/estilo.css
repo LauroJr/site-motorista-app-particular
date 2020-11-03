@@ -24,6 +24,11 @@ nav > a {
     text-align: center;
     color: #8C2F1B;
 }
+
+a:hover {
+    color: rgb(0, 0, 0);
+}
+
 img#logo-cabecalho {
     padding: 10px 30px;
 }
@@ -68,6 +73,7 @@ a > img {
     padding: 0px 20px 0px 20px;
 }
 .contato {
+    padding: 10px;
     display: flex;
     justify-content: center;
     margin-top: 70px;

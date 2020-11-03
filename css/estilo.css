@@ -8,18 +8,24 @@ body {
 }
 .cabecalho {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     color: #8C2F1B;
 }
+
+nav {
+    margin: 10px;
+    width: 30%;
+}
+
 nav > a {
+    margin: 10px;
     text-decoration: none;
-    margin: 20px;
+    text-align: center;
     color: #8C2F1B;
 }
 img#logo-cabecalho {
-    
-    padding: 10px 50px;
+    padding: 10px 30px;
 }
 img#principal {
     width: 100%;

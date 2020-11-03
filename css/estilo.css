@@ -13,6 +13,10 @@ body {
     color: #8C2F1B;
 }
 
+h1 {
+    font-size: 1.5em;
+}
+
 nav {
     margin: 10px;
     width: 30%;

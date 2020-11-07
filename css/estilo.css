@@ -13,6 +13,12 @@ body {
     color: #8C2F1B;
 }
 
+@media (max-width: 320px) {
+    h1#h1-cabecalho {
+      font-size: .7em;
+    }
+  }
+
 h1 {
     font-size: 1.5em;
 }
